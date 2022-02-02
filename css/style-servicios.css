@@ -1,0 +1,270 @@
+/**mobile**/
+@media only screen and (max-width: 767px) {
+  .mapa {
+    display: none;
+  }
+
+  .img-xl {
+    
+    width: 100%;
+  }
+
+   
+
+  h1 {
+    font-size: 25px !important;
+    display: flex;
+    
+  }
+  h2 {
+    font-size: 20px !important;
+    display: flex;
+    
+  }
+
+  .p-index {
+    font-size: 18px;
+    display: flex;
+    
+  }
+
+}
+
+/*Tablets*/
+
+@media (min-width: 768px) and (max-width: 1023px){
+  .img-xl {
+    
+    width: 100%;
+  }
+
+  h1 {
+    font-size: 35px !important;
+    display: flex;
+    
+  }
+  h2 {
+    font-size: 30px !important;
+    display: flex;
+    
+  }
+  h4 {
+    font-size: 30px !important;
+    display: flex;
+    
+  }
+
+  .p-index {
+    font-size: 28px;
+    display: flex;
+    
+  }
+}
+
+/*Computadoras*/
+
+@media only screen and (min-width: 1024px) {
+
+  html, body {  
+    margin:0px;  
+  } 
+
+
+
+  .img-index {
+    height: 417px;
+    width: 626px;
+  }
+  
+  .wpp {
+    height: 70px;
+    
+    
+    
+  }
+
+  .img-xl{
+  
+  width: 100%;
+  } 
+
+  html, body {  
+    margin:0px;  
+  } 
+
+
+
+  .img-index {
+  height: 417px;
+  width: 626px;
+  }
+  
+  .wpp {
+    height: 70px;
+    
+    
+  
+  }
+
+  h1 {
+    font-size: 40px !important;
+    display: flex;
+    
+  }
+  h2 {
+    font-size: 24px !important;
+    display: flex;
+    
+  }
+
+  .p-index {
+    font-size: 22px;
+    display: flex;
+    
+  }
+
+}
+
+/*General*/
+
+.banner {
+  width: 100%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+a {
+  color: #01384B !important;
+  font-family: 'Lexend Exa', sans-serif;
+}
+
+h1 {
+  font-family: 'Lexend Exa', sans-serif;
+color: #01384B;
+}
+
+h2 {
+  font-family: 'Lexend Exa', sans-serif;
+  color: #01384B;  
+}
+
+h4 {
+  font-family: 'Lexend', sans-serif;
+  color: #01384B;  
+}
+
+p {
+  font-family: 'Lexend', sans-serif;
+  color: #01384B;  
+}
+
+
+* {
+  margin: 0;
+  padding: 0; 
+}
+
+
+.container-principal{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+
+  
+  
+/*NAV*/
+
+nav {
+  font-family: 'Vollkorn', serif;;
+  background-color: #59C0D2;
+  
+    
+}
+
+
+/*MAIN*/
+.seccion-servicios{
+  margin-bottom: 50px;
+}
+.img-index{
+  padding-bottom: 20px;
+}
+.titulos-main{
+    padding: 20px;
+}
+.mapa {
+  display: none;
+}
+
+
+main {
+  background-color: #A5F0F2 ;
+}
+
+.img-index {
+  height: 200px;
+}
+
+.wpp {
+  height: 50px;
+  
+  
+}
+
+.wpp-vector {
+  height: 20px;
+}
+
+.h2-index {
+  display: flex;
+  text-align: center;
+}
+
+
+.h2-index {
+  display: flex;
+  justify-content: center;
+}
+
+/*footer*/
+footer {
+  background-color: #59C0D2;
+  
+  width: 100%;
+  bottom: 0 !important;
+  height: 100%;
+  
+}
+
+footer p {
+  font-weight: 400;
+}
+
+.div-hijo-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.div-footer {
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.padding-elementos-footer {
+  padding-left: 10px;
+}
+
+.flex-container-li-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+ul {
+  list-style: none;
+  font-family: 'Vollkorn', serif;
+}
+
