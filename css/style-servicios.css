@@ -28,6 +28,18 @@
     
   }
 
+  .imagen-titulo{
+    height: 40px;
+  }
+  
+  .div-titulo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
 }
 
 /*Tablets*/
@@ -58,6 +70,17 @@
     font-size: 28px;
     display: flex;
     
+  }
+
+  .div-titulo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .imagen-titulo{
+    height: 70px;
   }
 }
 
@@ -126,6 +149,21 @@
   .p-index {
     font-size: 22px;
     display: flex;
+    
+  }
+
+  .imagen-titulo{
+    height: 100px;
+    float: left;
+  }
+  .div-img{
+    float: left;
+  }
+  .div-titulo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
     
   }
 
