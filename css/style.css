@@ -97,8 +97,11 @@
 
 
  .img-index {
-  height: 417px;
-  width: 626px;
+  height: 380px !important;
+  /* size: 400px; */
+  /* width: 626px; */
+  padding-bottom: 20px;
+  margin-bottom: 20px;
   }
  
   .wpp {
@@ -190,6 +193,7 @@ nav {
 }
 .img-index{
   padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 .titulos-main{
     padding: 20px;
