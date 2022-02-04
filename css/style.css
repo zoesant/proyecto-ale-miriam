@@ -81,6 +81,14 @@
   .imagen-titulo{
     height: 71px;
   }
+
+  .img-index {
+    height: 380px !important;
+    /* size: 400px; */
+    /* width: 626px; */
+    padding-bottom: 20px !important;
+    margin-bottom: 20px !important;
+    }
 }
 
 /*para computadoras*/
@@ -97,11 +105,11 @@
 
 
  .img-index {
-  height: 380px !important;
+  height: 350px !important;
   /* size: 400px; */
   /* width: 626px; */
-  padding-bottom: 20px;
-  margin-bottom: 20px;
+  padding-bottom: 20px !important;
+  margin-bottom: 20px !important;
   }
  
   .wpp {
