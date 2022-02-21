@@ -43,7 +43,7 @@
   }
   .wpp{
     margin-bottom: 10px;
-    height: 30px;
+    height: 31px;
   }
 }
 
@@ -88,14 +88,14 @@
 
   .img-index {
     height: 380px !important;
-    /* size: 400px; */
-    /* width: 626px; */
+   
     padding-bottom: 20px !important;
     margin-bottom: 20px !important;
     }
 
   .wpp{
     margin-bottom: 20px;
+    height: 70px;
   }
 }
 
