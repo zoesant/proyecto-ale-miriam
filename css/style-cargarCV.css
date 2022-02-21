@@ -43,6 +43,9 @@
   p{
     font-size: 13px;
   }
+  .wpp{
+    margin-bottom: 10px;
+  }
 
 }
 @media only screen and (max-width: 767px) {
@@ -87,7 +90,11 @@
   }
   .form-cv{
     overflow-x: hidden;
-}
+  }
+
+  .wpp{
+    margin-bottom: 10px;
+  }
 
 }
 
@@ -143,6 +150,9 @@
   .form-cont{
     width: 100%;
   }
+  .wpp{
+    margin-bottom: 20px;
+  }
 }
 
 /**Computadoras**/
@@ -186,7 +196,7 @@
   .wpp {
     height: 70px;
     /* position: fixed; */
-    
+    margin-bottom: 20px;
   
   }
 

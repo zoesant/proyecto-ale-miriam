@@ -41,6 +41,9 @@
     align-items: center;
     
   }
+  .wpp{
+    margin-bottom: 10px;
+  }
 }
 
 /**tablets**/
@@ -89,6 +92,10 @@
     padding-bottom: 20px !important;
     margin-bottom: 20px !important;
     }
+
+  .wpp{
+    margin-bottom: 20px;
+  }
 }
 
 /*para computadoras*/
@@ -114,7 +121,7 @@
  
   .wpp {
     height: 70px;
-    
+    margin-bottom: 20px;
     
   
   }
