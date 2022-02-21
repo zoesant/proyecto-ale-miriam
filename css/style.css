@@ -43,6 +43,7 @@
   }
   .wpp{
     margin-bottom: 10px;
+    height: 30px;
   }
 }
 
@@ -223,12 +224,12 @@ main {
   height: 100%;
 }
 
-/* 
+
 .wpp {
   height: 50px;
   
   
-} */
+}
 
 .wpp-vector {
   height: 20px;
